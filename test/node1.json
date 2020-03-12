@@ -101,7 +101,6 @@
           "startTime": "2018-11-27T23:22:14Z",
           "cpu": {
             "time": "2018-11-29T20:28:26Z",
-            "usageNanoCores": 3320109,
             "usageCoreNanoSeconds": 515926624610
           },
           "memory": {
